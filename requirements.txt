@@ -1,0 +1,9 @@
+playwright
+pytz
+python-dateutil
+sqlite3
+google-generativeai
+pydantic
+pystray
+pillow
+olefile

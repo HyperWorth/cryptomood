@@ -1,0 +1,369 @@
+2025-03-22 03:10:07,512 - INFO - 🔄 Web Scraper başlatıldı.
+2025-03-22 03:10:07,529 - ERROR - ❌ Yedek alınırken hata oluştu: [Errno 2] No such file or directory: 'articles.db'
+2025-03-22 03:10:07,557 - DEBUG - Importing BlpImagePlugin
+2025-03-22 03:10:07,560 - DEBUG - Importing BmpImagePlugin
+2025-03-22 03:10:07,560 - DEBUG - Importing BufrStubImagePlugin
+2025-03-22 03:10:07,561 - DEBUG - Importing CurImagePlugin
+2025-03-22 03:10:07,563 - DEBUG - Importing DcxImagePlugin
+2025-03-22 03:10:07,565 - DEBUG - Importing DdsImagePlugin
+2025-03-22 03:10:07,571 - DEBUG - Importing EpsImagePlugin
+2025-03-22 03:10:07,574 - DEBUG - Importing FitsImagePlugin
+2025-03-22 03:10:07,577 - DEBUG - Importing FliImagePlugin
+2025-03-22 03:10:07,579 - DEBUG - Importing FpxImagePlugin
+2025-03-22 03:10:07,585 - DEBUG - Importing FtexImagePlugin
+2025-03-22 03:10:07,586 - DEBUG - Importing GbrImagePlugin
+2025-03-22 03:10:07,588 - DEBUG - Importing GifImagePlugin
+2025-03-22 03:10:07,588 - DEBUG - Importing GribStubImagePlugin
+2025-03-22 03:10:07,589 - DEBUG - Importing Hdf5StubImagePlugin
+2025-03-22 03:10:07,590 - DEBUG - Importing IcnsImagePlugin
+2025-03-22 03:10:07,594 - DEBUG - Importing IcoImagePlugin
+2025-03-22 03:10:07,596 - DEBUG - Importing ImImagePlugin
+2025-03-22 03:10:07,598 - DEBUG - Importing ImtImagePlugin
+2025-03-22 03:10:07,599 - DEBUG - Importing IptcImagePlugin
+2025-03-22 03:10:07,601 - DEBUG - Importing JpegImagePlugin
+2025-03-22 03:10:07,601 - DEBUG - Importing Jpeg2KImagePlugin
+2025-03-22 03:10:07,601 - DEBUG - Importing McIdasImagePlugin
+2025-03-22 03:10:07,602 - DEBUG - Importing MicImagePlugin
+2025-03-22 03:10:07,610 - DEBUG - Importing MpegImagePlugin
+2025-03-22 03:10:07,611 - DEBUG - Importing MpoImagePlugin
+2025-03-22 03:10:07,613 - DEBUG - Importing MspImagePlugin
+2025-03-22 03:10:07,614 - DEBUG - Importing PalmImagePlugin
+2025-03-22 03:10:07,615 - DEBUG - Importing PcdImagePlugin
+2025-03-22 03:10:07,616 - DEBUG - Importing PcxImagePlugin
+2025-03-22 03:10:07,616 - DEBUG - Importing PdfImagePlugin
+2025-03-22 03:10:07,624 - DEBUG - Importing PixarImagePlugin
+2025-03-22 03:10:07,626 - DEBUG - Importing PngImagePlugin
+2025-03-22 03:10:07,626 - DEBUG - Importing PpmImagePlugin
+2025-03-22 03:10:07,626 - DEBUG - Importing PsdImagePlugin
+2025-03-22 03:10:07,627 - DEBUG - Importing QoiImagePlugin
+2025-03-22 03:10:07,628 - DEBUG - Importing SgiImagePlugin
+2025-03-22 03:10:07,629 - DEBUG - Importing SpiderImagePlugin
+2025-03-22 03:10:07,630 - DEBUG - Importing SunImagePlugin
+2025-03-22 03:10:07,631 - DEBUG - Importing TgaImagePlugin
+2025-03-22 03:10:07,633 - DEBUG - Importing TiffImagePlugin
+2025-03-22 03:10:07,634 - DEBUG - Importing WebPImagePlugin
+2025-03-22 03:10:07,636 - DEBUG - Importing WmfImagePlugin
+2025-03-22 03:10:07,637 - DEBUG - Importing XbmImagePlugin
+2025-03-22 03:10:07,639 - DEBUG - Importing XpmImagePlugin
+2025-03-22 03:10:07,640 - DEBUG - Importing XVThumbImagePlugin
+2025-03-22 03:10:19,754 - INFO - Veritabanına bağlandı.
+2025-03-22 03:10:19,761 - INFO - Tablo başarıyla oluşturuldu.
+2025-03-22 03:10:19,762 - INFO - ✅ Veritabanı tablosu oluşturuldu veya zaten mevcut.
+2025-03-22 03:10:19,762 - INFO - 🔍 https://www.coindesk.com/business sitesinden makale linkleri çekiliyor...
+2025-03-22 03:10:19,762 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:10:36,423 - INFO - ✅ 13 makale URL'si bulundu.
+2025-03-22 03:10:36,423 - INFO - 🔍 https://www.coindesk.com/markets sitesinden makale linkleri çekiliyor...
+2025-03-22 03:10:36,423 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:10:51,965 - INFO - ✅ 12 makale URL'si bulundu.
+2025-03-22 03:10:51,965 - INFO - 🔍 https://cryptonews.com/news/ sitesinden makale linkleri çekiliyor...
+2025-03-22 03:10:51,965 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:11:06,553 - INFO - ✅ 19 makale URL'si bulundu.
+2025-03-22 03:11:06,553 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/coinbase-sold-12-652-eth-in-the-fourth-quarter-standard-chartered-says içeriği çekiliyor...
+2025-03-22 03:11:06,553 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:11:22,402 - INFO - Veritabanına bağlandı.
+2025-03-22 03:11:22,410 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/19/coinbase-sold-12-652-eth-in-the-fourth-quarter-standard-chartered-says
+2025-03-22 03:11:22,426 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/coinbase-sold-12-652-eth-in-the-fourth-quarter-standard-chartered-says içeriği başarıyla alındı.
+2025-03-22 03:11:22,426 - INFO - 📄 https://www.coindesk.com/business/2025/03/21/crypto-whale-that-punted-millions-on-leverage-trading-is-a-convicted-fraudster-zachxbt içeriği çekiliyor...
+2025-03-22 03:11:22,426 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:11:37,431 - INFO - Veritabanına bağlandı.
+2025-03-22 03:11:37,438 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/21/crypto-whale-that-punted-millions-on-leverage-trading-is-a-convicted-fraudster-zachxbt
+2025-03-22 03:11:37,452 - INFO - ✅ https://www.coindesk.com/business/2025/03/21/crypto-whale-that-punted-millions-on-leverage-trading-is-a-convicted-fraudster-zachxbt içeriği başarıyla alındı.
+2025-03-22 03:11:37,453 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/uranium-digital-raises-usd6-1m-to-speed-debut-of-crypto-powered-spot-market içeriği çekiliyor...
+2025-03-22 03:11:37,453 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:11:52,971 - INFO - Veritabanına bağlandı.
+2025-03-22 03:11:52,979 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/20/uranium-digital-raises-usd6-1m-to-speed-debut-of-crypto-powered-spot-market
+2025-03-22 03:11:52,994 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/uranium-digital-raises-usd6-1m-to-speed-debut-of-crypto-powered-spot-market içeriği başarıyla alındı.
+2025-03-22 03:11:52,995 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/kraken-buys-ninjatrader-for-usd1-5b-to-enter-u-s-crypto-futures-market içeriği çekiliyor...
+2025-03-22 03:11:52,995 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:12:09,195 - INFO - Veritabanına bağlandı.
+2025-03-22 03:12:09,207 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/20/kraken-buys-ninjatrader-for-usd1-5b-to-enter-u-s-crypto-futures-market
+2025-03-22 03:12:09,223 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/kraken-buys-ninjatrader-for-usd1-5b-to-enter-u-s-crypto-futures-market içeriği başarıyla alındı.
+2025-03-22 03:12:09,223 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/blockdaemon-acquires-defi-connectivity-firm-expand-to-bring-institutions-to-web3 içeriği çekiliyor...
+2025-03-22 03:12:09,223 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:12:24,401 - INFO - Veritabanına bağlandı.
+2025-03-22 03:12:24,411 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/19/blockdaemon-acquires-defi-connectivity-firm-expand-to-bring-institutions-to-web3
+2025-03-22 03:12:24,426 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/blockdaemon-acquires-defi-connectivity-firm-expand-to-bring-institutions-to-web3 içeriği başarıyla alındı.
+2025-03-22 03:12:24,426 - INFO - 📄 https://www.coindesk.com/business/2025/03/21/german-regulator-identifies-deficiencies-in-ethena-s-usde-stablecoin içeriği çekiliyor...
+2025-03-22 03:12:24,426 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:12:39,679 - INFO - Veritabanına bağlandı.
+2025-03-22 03:12:39,689 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/21/german-regulator-identifies-deficiencies-in-ethena-s-usde-stablecoin
+2025-03-22 03:12:39,704 - INFO - ✅ https://www.coindesk.com/business/2025/03/21/german-regulator-identifies-deficiencies-in-ethena-s-usde-stablecoin içeriği başarıyla alındı.
+2025-03-22 03:12:39,705 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch içeriği çekiliyor...
+2025-03-22 03:12:39,705 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:12:54,385 - INFO - Veritabanına bağlandı.
+2025-03-22 03:12:54,396 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch
+2025-03-22 03:12:54,410 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch içeriği başarıyla alındı.
+2025-03-22 03:12:54,410 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/how-restaking-protocol-ether-fi-retained-tvl-despite-waning-hype içeriği çekiliyor...
+2025-03-22 03:12:54,410 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:13:10,008 - INFO - Veritabanına bağlandı.
+2025-03-22 03:13:10,019 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/20/how-restaking-protocol-ether-fi-retained-tvl-despite-waning-hype
+2025-03-22 03:13:10,035 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/how-restaking-protocol-ether-fi-retained-tvl-despite-waning-hype içeriği başarıyla alındı.
+2025-03-22 03:13:10,035 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033 içeriği çekiliyor...
+2025-03-22 03:13:10,035 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:13:25,587 - INFO - Veritabanına bağlandı.
+2025-03-22 03:13:25,598 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033
+2025-03-22 03:13:25,611 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033 içeriği başarıyla alındı.
+2025-03-22 03:13:25,612 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails içeriği çekiliyor...
+2025-03-22 03:13:25,612 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:13:41,559 - INFO - Veritabanına bağlandı.
+2025-03-22 03:13:41,569 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails
+2025-03-22 03:13:41,584 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails içeriği başarıyla alındı.
+2025-03-22 03:13:41,584 - INFO - 📄 https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage içeriği çekiliyor...
+2025-03-22 03:13:41,584 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:13:57,305 - INFO - Veritabanına bağlandı.
+2025-03-22 03:13:57,315 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage
+2025-03-22 03:13:57,331 - INFO - ✅ https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage içeriği başarıyla alındı.
+2025-03-22 03:13:57,331 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says içeriği çekiliyor...
+2025-03-22 03:13:57,332 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:14:12,493 - INFO - Veritabanına bağlandı.
+2025-03-22 03:14:12,505 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says
+2025-03-22 03:14:12,519 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says içeriği başarıyla alındı.
+2025-03-22 03:14:12,519 - INFO - 📄 https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg içeriği çekiliyor...
+2025-03-22 03:14:12,519 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:14:28,299 - INFO - Veritabanına bağlandı.
+2025-03-22 03:14:28,311 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg
+2025-03-22 03:14:28,325 - INFO - ✅ https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg içeriği başarıyla alındı.
+2025-03-22 03:14:28,325 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/real-world-assets-cross-usd10-billion-in-total-value-locked-defillama içeriği çekiliyor...
+2025-03-22 03:14:28,326 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:14:44,244 - INFO - Veritabanına bağlandı.
+2025-03-22 03:14:44,255 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/real-world-assets-cross-usd10-billion-in-total-value-locked-defillama
+2025-03-22 03:14:44,271 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/real-world-assets-cross-usd10-billion-in-total-value-locked-defillama içeriği başarıyla alındı.
+2025-03-22 03:14:44,271 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/japan-s-biggest-corporate-bitcoin-holder-adds-eric-trump-as-advisor içeriği çekiliyor...
+2025-03-22 03:14:44,271 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:14:59,993 - INFO - Veritabanına bağlandı.
+2025-03-22 03:15:00,004 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/japan-s-biggest-corporate-bitcoin-holder-adds-eric-trump-as-advisor
+2025-03-22 03:15:00,024 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/japan-s-biggest-corporate-bitcoin-holder-adds-eric-trump-as-advisor içeriği başarıyla alındı.
+2025-03-22 03:15:00,024 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/north-korea-linked-lazarus-group-holds-more-bitcoin-than-elon-musk-s-tesla içeriği çekiliyor...
+2025-03-22 03:15:00,024 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:15:15,024 - INFO - Veritabanına bağlandı.
+2025-03-22 03:15:15,036 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/north-korea-linked-lazarus-group-holds-more-bitcoin-than-elon-musk-s-tesla
+2025-03-22 03:15:15,049 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/north-korea-linked-lazarus-group-holds-more-bitcoin-than-elon-musk-s-tesla içeriği başarıyla alındı.
+2025-03-22 03:15:15,049 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/cryptoquant-s-bull-score-index-falls-to-two-year-lows-signaling-pain-for-btc-bulls içeriği çekiliyor...
+2025-03-22 03:15:15,049 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:15:30,353 - INFO - Veritabanına bağlandı.
+2025-03-22 03:15:30,364 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/cryptoquant-s-bull-score-index-falls-to-two-year-lows-signaling-pain-for-btc-bulls
+2025-03-22 03:15:30,378 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/cryptoquant-s-bull-score-index-falls-to-two-year-lows-signaling-pain-for-btc-bulls içeriği başarıyla alındı.
+2025-03-22 03:15:30,378 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/what-the-collapse-of-the-u-s-bitcoin-etf-cash-and-carry-trade-means-for-investors içeriği çekiliyor...
+2025-03-22 03:15:30,378 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:15:45,639 - INFO - Veritabanına bağlandı.
+2025-03-22 03:15:45,649 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/what-the-collapse-of-the-u-s-bitcoin-etf-cash-and-carry-trade-means-for-investors
+2025-03-22 03:15:45,662 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/what-the-collapse-of-the-u-s-bitcoin-etf-cash-and-carry-trade-means-for-investors içeriği başarıyla alındı.
+2025-03-22 03:15:45,662 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/hotter-than-expected-core-inflation-in-japan-sparks-rate-hike-talk-threatens-crypto içeriği çekiliyor...
+2025-03-22 03:15:45,662 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:16:01,195 - INFO - Veritabanına bağlandı.
+2025-03-22 03:16:01,205 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/hotter-than-expected-core-inflation-in-japan-sparks-rate-hike-talk-threatens-crypto
+2025-03-22 03:16:01,220 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/hotter-than-expected-core-inflation-in-japan-sparks-rate-hike-talk-threatens-crypto içeriği başarıyla alındı.
+2025-03-22 03:16:01,220 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/bitcoin-xrp-sol-sink-on-profit-taking-after-fomc-rally içeriği çekiliyor...
+2025-03-22 03:16:01,220 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:16:16,773 - INFO - Veritabanına bağlandı.
+2025-03-22 03:16:16,784 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/bitcoin-xrp-sol-sink-on-profit-taking-after-fomc-rally
+2025-03-22 03:16:16,798 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/bitcoin-xrp-sol-sink-on-profit-taking-after-fomc-rally içeriği başarıyla alındı.
+2025-03-22 03:16:16,798 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/solana-based-dex-orca-s-native-token-skyrockets-92-as-upbit-announces-listing içeriği çekiliyor...
+2025-03-22 03:16:16,799 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:16:31,588 - INFO - Veritabanına bağlandı.
+2025-03-22 03:16:31,601 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/solana-based-dex-orca-s-native-token-skyrockets-92-as-upbit-announces-listing
+2025-03-22 03:16:31,617 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/solana-based-dex-orca-s-native-token-skyrockets-92-as-upbit-announces-listing içeriği başarıyla alındı.
+2025-03-22 03:16:31,617 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/strategy-raises-usd711m-to-buy-more-bitcoin-in-upsized-strf-perpetual-offering içeriği çekiliyor...
+2025-03-22 03:16:31,617 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:16:47,331 - INFO - Veritabanına bağlandı.
+2025-03-22 03:16:47,341 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/strategy-raises-usd711m-to-buy-more-bitcoin-in-upsized-strf-perpetual-offering
+2025-03-22 03:16:47,357 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/strategy-raises-usd711m-to-buy-more-bitcoin-in-upsized-strf-perpetual-offering içeriği başarıyla alındı.
+2025-03-22 03:16:47,357 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push içeriği çekiliyor...
+2025-03-22 03:16:47,357 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:17:03,087 - INFO - Veritabanına bağlandı.
+2025-03-22 03:17:03,098 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push
+2025-03-22 03:17:03,112 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push içeriği başarıyla alındı.
+2025-03-22 03:17:03,113 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/this-indicator-supports-bullish-case-in-bitcoin-and-nasdaq-for-now içeriği çekiliyor...
+2025-03-22 03:17:03,113 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:17:18,806 - INFO - Veritabanına bağlandı.
+2025-03-22 03:17:18,817 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/this-indicator-supports-bullish-case-in-bitcoin-and-nasdaq-for-now
+2025-03-22 03:17:18,832 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/this-indicator-supports-bullish-case-in-bitcoin-and-nasdaq-for-now içeriği başarıyla alındı.
+2025-03-22 03:17:18,832 - INFO - 📄 https://www.coindesk.com/markets/2025/03/21/hk-asia-holdings-buys-more-bitcoin-in-hedge-against-h-k-dollar-depreciation içeriği çekiliyor...
+2025-03-22 03:17:18,832 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:17:33,673 - INFO - Veritabanına bağlandı.
+2025-03-22 03:17:33,684 - INFO - Makale başarıyla eklendi: https://www.coindesk.com/markets/2025/03/21/hk-asia-holdings-buys-more-bitcoin-in-hedge-against-h-k-dollar-depreciation
+2025-03-22 03:17:33,697 - INFO - ✅ https://www.coindesk.com/markets/2025/03/21/hk-asia-holdings-buys-more-bitcoin-in-hedge-against-h-k-dollar-depreciation içeriği başarıyla alındı.
+2025-03-22 03:17:33,697 - INFO - 📄 https://cryptonews.com/news/eminem-ex-sound-engineer-accused-of-selling-songs-for-bitcoin/ içeriği çekiliyor...
+2025-03-22 03:17:33,697 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:17:47,299 - INFO - Veritabanına bağlandı.
+2025-03-22 03:17:47,310 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/eminem-ex-sound-engineer-accused-of-selling-songs-for-bitcoin/
+2025-03-22 03:17:47,320 - INFO - ✅ https://cryptonews.com/news/eminem-ex-sound-engineer-accused-of-selling-songs-for-bitcoin/ içeriği başarıyla alındı.
+2025-03-22 03:17:47,320 - INFO - 📄 https://cryptonews.com/news/solana-futures-etfs-are-live-will-wall-street-start-buying-sol/ içeriği çekiliyor...
+2025-03-22 03:17:47,321 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:18:00,624 - INFO - Veritabanına bağlandı.
+2025-03-22 03:18:00,643 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/solana-futures-etfs-are-live-will-wall-street-start-buying-sol/
+2025-03-22 03:18:00,657 - INFO - ✅ https://cryptonews.com/news/solana-futures-etfs-are-live-will-wall-street-start-buying-sol/ içeriği başarıyla alındı.
+2025-03-22 03:18:00,658 - INFO - 📄 https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/ içeriği çekiliyor...
+2025-03-22 03:18:00,658 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:18:15,035 - INFO - Veritabanına bağlandı.
+2025-03-22 03:18:15,044 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/
+2025-03-22 03:18:15,055 - INFO - ✅ https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/ içeriği başarıyla alındı.
+2025-03-22 03:18:15,055 - INFO - 📄 https://cryptonews.com/news/coinbase-explores-deribit-crypto-options-exchange-deal/ içeriği çekiliyor...
+2025-03-22 03:18:15,055 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:18:28,319 - INFO - Veritabanına bağlandı.
+2025-03-22 03:18:28,333 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/coinbase-explores-deribit-crypto-options-exchange-deal/
+2025-03-22 03:18:28,345 - INFO - ✅ https://cryptonews.com/news/coinbase-explores-deribit-crypto-options-exchange-deal/ içeriği başarıyla alındı.
+2025-03-22 03:18:28,345 - INFO - 📄 https://cryptonews.com/news/us-treasury-removes-sanctions-on-ethereum-mixer-tornado-cash/ içeriği çekiliyor...
+2025-03-22 03:18:28,345 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:18:41,167 - INFO - Veritabanına bağlandı.
+2025-03-22 03:18:41,177 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/us-treasury-removes-sanctions-on-ethereum-mixer-tornado-cash/
+2025-03-22 03:18:41,188 - INFO - ✅ https://cryptonews.com/news/us-treasury-removes-sanctions-on-ethereum-mixer-tornado-cash/ içeriği başarıyla alındı.
+2025-03-22 03:18:41,188 - INFO - 📄 https://cryptonews.com/news/bonk-price-rallies-5-with-175-million-do-insiders-know-something/ içeriği çekiliyor...
+2025-03-22 03:18:41,188 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:18:54,144 - INFO - Veritabanına bağlandı.
+2025-03-22 03:18:54,154 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/bonk-price-rallies-5-with-175-million-do-insiders-know-something/
+2025-03-22 03:18:54,165 - INFO - ✅ https://cryptonews.com/news/bonk-price-rallies-5-with-175-million-do-insiders-know-something/ içeriği başarıyla alındı.
+2025-03-22 03:18:54,165 - INFO - 📄 https://cryptonews.com/news/crypto-regulation-news-ripple-win-trump-eyes-rules/ içeriği çekiliyor...
+2025-03-22 03:18:54,165 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:19:07,942 - INFO - Veritabanına bağlandı.
+2025-03-22 03:19:07,953 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/crypto-regulation-news-ripple-win-trump-eyes-rules/
+2025-03-22 03:19:07,964 - INFO - ✅ https://cryptonews.com/news/crypto-regulation-news-ripple-win-trump-eyes-rules/ içeriği başarıyla alındı.
+2025-03-22 03:19:07,965 - INFO - 📄 https://cryptonews.com/news/popular-crypto-x-account-watcher-guru-hacked-is-it-spreading-fake-xrp-news/ içeriği çekiliyor...
+2025-03-22 03:19:07,965 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:19:22,066 - INFO - Veritabanına bağlandı.
+2025-03-22 03:19:22,077 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/popular-crypto-x-account-watcher-guru-hacked-is-it-spreading-fake-xrp-news/
+2025-03-22 03:19:22,088 - INFO - ✅ https://cryptonews.com/news/popular-crypto-x-account-watcher-guru-hacked-is-it-spreading-fake-xrp-news/ içeriği başarıyla alındı.
+2025-03-22 03:19:22,088 - INFO - 📄 https://cryptonews.com/news/mystery-whale-moves-534-btc-is-a-massive-bitcoin-sell-off-coming/ içeriği çekiliyor...
+2025-03-22 03:19:22,088 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:19:34,809 - INFO - Veritabanına bağlandı.
+2025-03-22 03:19:34,820 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/mystery-whale-moves-534-btc-is-a-massive-bitcoin-sell-off-coming/
+2025-03-22 03:19:34,831 - INFO - ✅ https://cryptonews.com/news/mystery-whale-moves-534-btc-is-a-massive-bitcoin-sell-off-coming/ içeriği başarıyla alındı.
+2025-03-22 03:19:34,831 - INFO - 📄 https://cryptonews.com/news/rwa-restaking-protocol-zoth-suffers-security-breach/ içeriği çekiliyor...
+2025-03-22 03:19:34,831 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:19:49,047 - INFO - Veritabanına bağlandı.
+2025-03-22 03:19:49,058 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/rwa-restaking-protocol-zoth-suffers-security-breach/
+2025-03-22 03:19:49,069 - INFO - ✅ https://cryptonews.com/news/rwa-restaking-protocol-zoth-suffers-security-breach/ içeriği başarıyla alındı.
+2025-03-22 03:19:49,070 - INFO - 📄 https://cryptonews.com/news/bafin-bans-ethena-gmbhs-usde-token-sales-in-germany/ içeriği çekiliyor...
+2025-03-22 03:19:49,070 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:20:02,014 - INFO - Veritabanına bağlandı.
+2025-03-22 03:20:02,027 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/bafin-bans-ethena-gmbhs-usde-token-sales-in-germany/
+2025-03-22 03:20:02,039 - INFO - ✅ https://cryptonews.com/news/bafin-bans-ethena-gmbhs-usde-token-sales-in-germany/ içeriği başarıyla alındı.
+2025-03-22 03:20:02,039 - INFO - 📄 https://cryptonews.com/news/stellars-breakout-just-getting-started-analysts-say-1-is-next/ içeriği çekiliyor...
+2025-03-22 03:20:02,039 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:20:16,747 - INFO - Veritabanına bağlandı.
+2025-03-22 03:20:16,760 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/stellars-breakout-just-getting-started-analysts-say-1-is-next/
+2025-03-22 03:20:16,771 - INFO - ✅ https://cryptonews.com/news/stellars-breakout-just-getting-started-analysts-say-1-is-next/ içeriği başarıyla alındı.
+2025-03-22 03:20:16,772 - INFO - 📄 https://cryptonews.com/news/ida-japan-firms-test-stablecoin-remittance-service/ içeriği çekiliyor...
+2025-03-22 03:20:16,772 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:20:29,616 - INFO - Veritabanına bağlandı.
+2025-03-22 03:20:29,628 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/ida-japan-firms-test-stablecoin-remittance-service/
+2025-03-22 03:20:29,641 - INFO - ✅ https://cryptonews.com/news/ida-japan-firms-test-stablecoin-remittance-service/ içeriği başarıyla alındı.
+2025-03-22 03:20:29,641 - INFO - 📄 https://cryptonews.com/news/immutable-zkevm-and-doglibre-join-hands-in-dog-rescue-efforts/ içeriği çekiliyor...
+2025-03-22 03:20:29,641 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:20:42,393 - INFO - Veritabanına bağlandı.
+2025-03-22 03:20:42,406 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/immutable-zkevm-and-doglibre-join-hands-in-dog-rescue-efforts/
+2025-03-22 03:20:42,417 - INFO - ✅ https://cryptonews.com/news/immutable-zkevm-and-doglibre-join-hands-in-dog-rescue-efforts/ içeriği başarıyla alındı.
+2025-03-22 03:20:42,417 - INFO - 📄 https://cryptonews.com/news/stablecoin-market-hits-230b-us-regulatory-push/ içeriği çekiliyor...
+2025-03-22 03:20:42,417 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:20:56,946 - INFO - Veritabanına bağlandı.
+2025-03-22 03:20:56,960 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/stablecoin-market-hits-230b-us-regulatory-push/
+2025-03-22 03:20:56,971 - INFO - ✅ https://cryptonews.com/news/stablecoin-market-hits-230b-us-regulatory-push/ içeriği başarıyla alındı.
+2025-03-22 03:20:56,971 - INFO - 📄 https://cryptonews.com/news/ecb-says-digital-euro-critical-to-safeguard-europes-monetary-autonomy/ içeriği çekiliyor...
+2025-03-22 03:20:56,972 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:21:11,166 - INFO - Veritabanına bağlandı.
+2025-03-22 03:21:11,180 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/ecb-says-digital-euro-critical-to-safeguard-europes-monetary-autonomy/
+2025-03-22 03:21:11,191 - INFO - ✅ https://cryptonews.com/news/ecb-says-digital-euro-critical-to-safeguard-europes-monetary-autonomy/ içeriği başarıyla alındı.
+2025-03-22 03:21:11,191 - INFO - 📄 https://cryptonews.com/news/new-data-xrp-whale-holdings-are-surging-is-a-big-breakout-coming/ içeriği çekiliyor...
+2025-03-22 03:21:11,191 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:21:23,898 - INFO - Veritabanına bağlandı.
+2025-03-22 03:21:23,912 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/new-data-xrp-whale-holdings-are-surging-is-a-big-breakout-coming/
+2025-03-22 03:21:23,922 - INFO - ✅ https://cryptonews.com/news/new-data-xrp-whale-holdings-are-surging-is-a-big-breakout-coming/ içeriği başarıyla alındı.
+2025-03-22 03:21:23,923 - INFO - 📄 https://cryptonews.com/news/when-will-binance-list-pi-coin-pi-crashes-20-amid-scam-claim/ içeriği çekiliyor...
+2025-03-22 03:21:23,923 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:21:37,125 - INFO - Veritabanına bağlandı.
+2025-03-22 03:21:37,138 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/when-will-binance-list-pi-coin-pi-crashes-20-amid-scam-claim/
+2025-03-22 03:21:37,151 - INFO - ✅ https://cryptonews.com/news/when-will-binance-list-pi-coin-pi-crashes-20-amid-scam-claim/ içeriği başarıyla alındı.
+2025-03-22 03:21:37,151 - INFO - 📄 https://cryptonews.com/news/blockchain-stalls-in-germany-as-ai-adoption-surges-survey/ içeriği çekiliyor...
+2025-03-22 03:21:37,151 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:21:51,258 - INFO - Veritabanına bağlandı.
+2025-03-22 03:21:51,272 - INFO - Makale başarıyla eklendi: https://cryptonews.com/news/blockchain-stalls-in-germany-as-ai-adoption-surges-survey/
+2025-03-22 03:21:51,283 - INFO - ✅ https://cryptonews.com/news/blockchain-stalls-in-germany-as-ai-adoption-surges-survey/ içeriği başarıyla alındı.
+2025-03-22 03:21:51,284 - INFO - 🎉 Web Scraper işlemi tamamlandı.
+2025-03-22 03:26:05,683 - INFO - Veritabanına bağlandı.
+2025-03-22 03:26:05,683 - INFO - Tablo başarıyla oluşturuldu.
+2025-03-22 03:26:05,683 - INFO - ✅ Veritabanı tablosu oluşturuldu veya zaten mevcut.
+2025-03-22 03:26:05,683 - INFO - 🔍 https://www.coindesk.com/business sitesinden makale linkleri çekiliyor...
+2025-03-22 03:26:05,684 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:28:50,368 - INFO - 🔄 Web Scraper başlatıldı.
+2025-03-22 03:28:50,387 - INFO - ⏰ Web scraping işlemi başlatılıyor...
+2025-03-22 03:28:50,387 - INFO - Veritabanına bağlandı.
+2025-03-22 03:28:50,388 - INFO - Tablo başarıyla oluşturuldu.
+2025-03-22 03:28:50,389 - INFO - ✅ Veritabanı tablosu oluşturuldu veya zaten mevcut.
+2025-03-22 03:28:50,389 - INFO - 🔍 https://www.coindesk.com/business sitesinden makale linkleri çekiliyor...
+2025-03-22 03:28:50,389 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:28:50,392 - INFO - ✅ Yedek alındı: yedek_database\yedek_20250322032850.db
+2025-03-22 03:28:50,432 - DEBUG - Importing BlpImagePlugin
+2025-03-22 03:28:50,434 - DEBUG - Importing BmpImagePlugin
+2025-03-22 03:28:50,435 - DEBUG - Importing BufrStubImagePlugin
+2025-03-22 03:28:50,437 - DEBUG - Importing CurImagePlugin
+2025-03-22 03:28:50,438 - DEBUG - Importing DcxImagePlugin
+2025-03-22 03:28:50,441 - DEBUG - Importing DdsImagePlugin
+2025-03-22 03:28:50,447 - DEBUG - Importing EpsImagePlugin
+2025-03-22 03:28:50,450 - DEBUG - Importing FitsImagePlugin
+2025-03-22 03:28:50,454 - DEBUG - Importing FliImagePlugin
+2025-03-22 03:28:50,455 - DEBUG - Importing FpxImagePlugin
+2025-03-22 03:28:50,462 - DEBUG - Importing FtexImagePlugin
+2025-03-22 03:28:50,464 - DEBUG - Importing GbrImagePlugin
+2025-03-22 03:28:50,466 - DEBUG - Importing GifImagePlugin
+2025-03-22 03:28:50,466 - DEBUG - Importing GribStubImagePlugin
+2025-03-22 03:28:50,468 - DEBUG - Importing Hdf5StubImagePlugin
+2025-03-22 03:28:50,469 - DEBUG - Importing IcnsImagePlugin
+2025-03-22 03:28:50,473 - DEBUG - Importing IcoImagePlugin
+2025-03-22 03:28:50,476 - DEBUG - Importing ImImagePlugin
+2025-03-22 03:28:50,478 - DEBUG - Importing ImtImagePlugin
+2025-03-22 03:28:50,479 - DEBUG - Importing IptcImagePlugin
+2025-03-22 03:28:50,482 - DEBUG - Importing JpegImagePlugin
+2025-03-22 03:28:50,482 - DEBUG - Importing Jpeg2KImagePlugin
+2025-03-22 03:28:50,482 - DEBUG - Importing McIdasImagePlugin
+2025-03-22 03:28:50,483 - DEBUG - Importing MicImagePlugin
+2025-03-22 03:28:50,493 - DEBUG - Importing MpegImagePlugin
+2025-03-22 03:28:50,495 - DEBUG - Importing MpoImagePlugin
+2025-03-22 03:28:50,497 - DEBUG - Importing MspImagePlugin
+2025-03-22 03:28:50,499 - DEBUG - Importing PalmImagePlugin
+2025-03-22 03:28:50,501 - DEBUG - Importing PcdImagePlugin
+2025-03-22 03:28:50,502 - DEBUG - Importing PcxImagePlugin
+2025-03-22 03:28:50,502 - DEBUG - Importing PdfImagePlugin
+2025-03-22 03:28:50,512 - DEBUG - Importing PixarImagePlugin
+2025-03-22 03:28:50,514 - DEBUG - Importing PngImagePlugin
+2025-03-22 03:28:50,514 - DEBUG - Importing PpmImagePlugin
+2025-03-22 03:28:50,514 - DEBUG - Importing PsdImagePlugin
+2025-03-22 03:28:50,516 - DEBUG - Importing QoiImagePlugin
+2025-03-22 03:28:50,518 - DEBUG - Importing SgiImagePlugin
+2025-03-22 03:28:50,519 - DEBUG - Importing SpiderImagePlugin
+2025-03-22 03:28:50,521 - DEBUG - Importing SunImagePlugin
+2025-03-22 03:28:50,523 - DEBUG - Importing TgaImagePlugin
+2025-03-22 03:28:50,524 - DEBUG - Importing TiffImagePlugin
+2025-03-22 03:28:50,524 - DEBUG - Importing WebPImagePlugin
+2025-03-22 03:28:50,527 - DEBUG - Importing WmfImagePlugin
+2025-03-22 03:28:50,530 - DEBUG - Importing XbmImagePlugin
+2025-03-22 03:28:50,533 - DEBUG - Importing XpmImagePlugin
+2025-03-22 03:28:50,534 - DEBUG - Importing XVThumbImagePlugin
+2025-03-22 03:29:08,684 - INFO - ✅ 13 makale URL'si bulundu.
+2025-03-22 03:29:08,685 - INFO - 🔍 https://www.coindesk.com/markets sitesinden makale linkleri çekiliyor...
+2025-03-22 03:29:08,685 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:29:25,891 - INFO - ✅ 12 makale URL'si bulundu.
+2025-03-22 03:29:25,891 - INFO - 🔍 https://cryptonews.com/news/ sitesinden makale linkleri çekiliyor...
+2025-03-22 03:29:25,892 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:29:41,747 - INFO - ✅ 19 makale URL'si bulundu.
+2025-03-22 03:29:41,747 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails içeriği çekiliyor...
+2025-03-22 03:29:41,747 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:29:58,036 - INFO - Veritabanına bağlandı.
+2025-03-22 03:29:58,037 - WARNING - URL zaten mevcut: https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails
+2025-03-22 03:29:58,053 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/wallet-infrastructure-provider-privy-raises-usd15m-to-develop-crypto-onboarding-rails içeriği başarıyla alındı.
+2025-03-22 03:29:58,053 - INFO - 📄 https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033 içeriği çekiliyor...
+2025-03-22 03:29:58,053 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:30:14,560 - INFO - Veritabanına bağlandı.
+2025-03-22 03:30:14,561 - WARNING - URL zaten mevcut: https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033
+2025-03-22 03:30:14,578 - INFO - ✅ https://www.coindesk.com/business/2025/03/19/dubai-starts-real-estate-tokenization-pilot-forecasts-usd16b-market-by-2033 içeriği başarıyla alındı.
+2025-03-22 03:30:14,578 - INFO - 📄 https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg içeriği çekiliyor...
+2025-03-22 03:30:14,578 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:30:30,991 - INFO - Veritabanına bağlandı.
+2025-03-22 03:30:30,991 - WARNING - URL zaten mevcut: https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg
+2025-03-22 03:30:31,011 - INFO - ✅ https://www.coindesk.com/business/2025/03/21/coinbase-could-be-near-multi-billion-dollar-deal-for-deribit-bloomberg içeriği başarıyla alındı.
+2025-03-22 03:30:31,012 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch içeriği çekiliyor...
+2025-03-22 03:30:31,012 - DEBUG - Using proactor: IocpProactor
+2025-03-22 03:30:47,623 - INFO - Veritabanına bağlandı.
+2025-03-22 03:30:47,624 - WARNING - URL zaten mevcut: https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch
+2025-03-22 03:30:47,644 - INFO - ✅ https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch içeriği başarıyla alındı.
+2025-03-22 03:30:47,644 - INFO - 📄 https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says içeriği çekiliyor...
+2025-03-22 03:30:47,644 - DEBUG - Using proactor: IocpProactor
